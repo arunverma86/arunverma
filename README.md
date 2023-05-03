@@ -4,7 +4,7 @@ I am Full stack developer and having 5 years of experience.
 
 I'm specialized in:
 
-- Backend programming languages: Node.js, Nest.js, PHP, Laravel Framework
+- Backend programming languages: Node.js, Nest.js, Python, Django, PHP, Laravel, Codeigniter, YII, Symfony Framework
 - Frontend programming languages: React.js, Next.js, Vue.js, Angular
 - Mobile app programming language: React Native
 - Database: MySQL, Postgresql, NoSQL, MongoDB, GraphQL
@@ -18,6 +18,7 @@ I'm specialized in:
 - Git, GitHub, Gitlab, Bitbucket
 - OS: Ubuntu, macOS, Window
 - Apache, Nginx server
+- Docker
 
 ## How to find me: 
 
